@@ -1,0 +1,6 @@
+{
+  "name": "Brisa",
+  "description": "Aplicación del clima con animaciones atmosféricas en vivo y widgets interactivos con hora y temporada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Brisa</string>
+    <string name="widget_clock_season_name">Brisa: Hora, Clima y Temporada</string>
+    <string name="widget_clock_season_description">Muestra la hora en vivo de la ubicación, temperatura actual, temporada del año y botones interactivos.</string>
+    <string name="widget_forecast_name">Brisa: Pronóstico Interactivo</string>
+    <string name="widget_forecast_description">Pronóstico por horas o 3 días con cambio rápido de ciudad y actualización en vivo.</string>
+    <string name="nav_weather">Clima</string>
+    <string name="nav_locations">Ciudades</string>
+    <string name="nav_widgets">Widgets</string>
+    <string name="search_city_hint">Buscar ciudad o país…</string>
+    <string name="use_my_location">Mi ubicación</string>
+    <string name="retry">Reintentar</string>
+    <string name="refresh">Actualizar</string>
+    <string name="pin_widget">Añadir a inicio</string>
+</resources>
